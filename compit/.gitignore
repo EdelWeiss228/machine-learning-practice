@@ -1,0 +1,11 @@
+# Large data files
+*.csv
+!sample_sabmission.csv
+!Tadjiev_Georgiy.csv
+
+# Python
+__pycache__/
+*.py[cod]
+
+# OS
+.DS_Store

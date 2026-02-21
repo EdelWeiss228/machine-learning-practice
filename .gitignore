@@ -1,0 +1,22 @@
+# Large data files (compit)
+compit/train.csv
+compit/test.csv
+
+# Seminar data (MNIST and others)
+seminar/mnist.npz
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+
+# OS
+.DS_Store
+
+# Logs and intermediate results
+*.log
+seminar/result.csv
+seminar/submission.csv
+compit/Tadjiev_Georgiy1.csv
